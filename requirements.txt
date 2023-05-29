@@ -1,0 +1,16 @@
+pip
+jax[cuda12_pip] -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+distrax
+dm-haiku
+optax
+causaldag
+graphical_models
+ipdb
+torch
+xarray
+cdt
+bayesian-optimization
+pgmpy
+igraph
+wandb
+networkx

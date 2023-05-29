@@ -1,0 +1,7 @@
+name: diffcbed
+channels:
+    - defaults
+dependencies:
+    - python=3.10
+    - r-essentials 
+    - r-base
