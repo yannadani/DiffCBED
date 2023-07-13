@@ -59,4 +59,4 @@ Other parameters can be changed to desired values (for e.g. different number of 
 
 ## Reference
 This code is official implementation of the following paper:
-> Yashas Annadani, Panagiotis Tigas, Desi R. Ivanova, Andrew Jesson, Yarin Gal, Adam Foster, Stefan Bauer. **Differentiable Multi-Target Causal Bayesian Experimental Design**. In International Conference on Machine Learning (ICML), 2022. [PDF](https://arxiv.org/pdf/2302.10607.pdf)
+> Yashas Annadani, Panagiotis Tigas, Desi R. Ivanova, Andrew Jesson, Yarin Gal, Adam Foster, Stefan Bauer. **Differentiable Multi-Target Causal Bayesian Experimental Design**. In International Conference on Machine Learning (ICML), 2023. [PDF](https://arxiv.org/pdf/2302.10607.pdf)
