@@ -9,6 +9,10 @@ This is the official repository with the python implementation for the paper "[D
 
 The repository contains different acquisition strategies for optimal targeted interventions to learn causal models, including the proposed approach _DiffCBED_ (which acquires both intervention batch of (multi-)target and values).
 
+<p align="center">
+<img src="fig/banner.png" alt="Causal Bayesian Experimental Design" width="400"/>
+</p>
+
 ## Installation
 
 In order to run this repository on your machine, it is recommended to follow the below steps.
