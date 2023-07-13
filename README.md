@@ -55,7 +55,7 @@ python experimental_design.py --data_seed <data_seed> --model dag_bootstrap --nu
 Other parameters can be changed to desired values (for e.g. different number of variables with the flag `--num_nodes`). `python experimental_design.py --help` gives more details.
 
 ## Reproducing the results 
-- Details for reproducing the results in the paper are given in the branch [full](https://github.com/yannadani/DiffCBED/tree/full]).
+- Details for reproducing the results in the paper are given in the branch [full](https://github.com/yannadani/DiffCBED/tree/full).
 
 ## Reference
 This code is official implementation of the following paper:
